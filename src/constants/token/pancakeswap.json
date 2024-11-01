@@ -1,0 +1,22 @@
+{
+    "name": "DynastySwap Default List",
+    "timestamp": "2021-03-17T09:56:23Z",
+    "version": {
+        "major": 2,
+        "minor": 10,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://dynastycoin.io/assets/img/logo/logo.png",
+    "keywords": ["dnys", "default"],
+    "tokens": [
+        {
+            "name": "Wrapped DNY",
+            "symbol": "WDNY",
+            "address": "0x5b8361a91d33Ad1a9541832B2B60b1CEd2D04148",
+            "chainId": 701322,
+            "decimals": 18,
+            "logoURI": "https://dynastycoin.io/assets/img/logo/logo.png"
+        }
+    ]
+}
