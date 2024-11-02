@@ -17,6 +17,14 @@
             "chainId": 701322,
             "decimals": 18,
             "logoURI": "https://dynastycoin.io/assets/img/logo/logo.png"
+        },
+        {
+            "name": "CarbonFi",
+            "symbol": "CAFI",
+            "address": "0xB2AC2753C7c8a8122b97586514C6D70194800dcF",
+            "chainId": 701322,
+            "decimals": 18,
+            "logoURI": "https://i.ibb.co.com/yXYw9Qn/0x-B2-AC2753-C7c8a8122b97586514-C6-D70194800dc-F.png"
         }
     ]
 }
