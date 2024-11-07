@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://dynastycoin.io',
+    href: 'https://dynastyswap.finance',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://dynastycoin.io'
+    href: 'https://dynastyswap.finance'
   },
   {
     label: 'More',

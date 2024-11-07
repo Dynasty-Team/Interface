@@ -7,8 +7,8 @@
         "@binance-chain/bsc-connector": "^1.0.0",
         "@crowdin/crowdin-api-client": "^1.8.16",
         "@ethersproject/experimental": "^5.0.1",
-        "@pancakeswap-libs/sdk": "Dynasty-Team/sdk",
-        "@pancakeswap-libs/uikit": "Dynasty-Team/dynasty-uikit",
+        "@pancakeswap-libs/sdk": "Dynasty-Team/ui-new",
+        "@pancakeswap-libs/uikit": "Dynasty-Team/uikit",
         "@popperjs/core": "^2.4.4",
         "@reach/dialog": "^0.10.3",
         "@reach/portal": "^0.10.3",
@@ -64,9 +64,6 @@
         "styled-components": "^5.2.1",
         "typescript": "^4.1.3"
     },
-    "engines": {
-    "node": ">=16.0.0"
-  },
     "devDependencies": {
         "@commitlint/cli": "^12.0.0",
         "@commitlint/config-conventional": "^12.0.0",

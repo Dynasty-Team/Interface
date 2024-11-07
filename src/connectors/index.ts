@@ -33,7 +33,7 @@ export const bscConnector = new BscConnector({ supportedChainIds: [701322] })
 // mainnet only
 export const walletconnect = new WalletConnectConnector({
   rpc: { [NETWORK_CHAIN_ID]: NETWORK_URL },
-  bridge: 'https://bridge.walletconnect.org',
+  bridge: 'https://bridge.dynastyswap.finance',
   qrcode: true,
   pollingInterval: 15000,
 })

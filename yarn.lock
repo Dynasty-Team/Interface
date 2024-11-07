@@ -2723,9 +2723,9 @@
     truffle-flattener "^1.4.4"
     truffle-hdwallet-provider "^1.0.17"
 
-"@pancakeswap-libs/sdk@Dynasty-Team/sdk":
+"@pancakeswap-libs/sdk@Dynasty-Team/ui-new":
   version "2.2.0"
-  resolved "https://codeload.github.com/Dynasty-Team/sdk/tar.gz/e8a79aee3985ab3f25536c5b42553791cd8b5784"
+  resolved "https://codeload.github.com/Dynasty-Team/ui-new/tar.gz/40b3cb5c76ae2d367a6287d03ebd616488092256"
   dependencies:
     "@pancakeswap-libs/pancake-swap-core" "^0.1.0"
     big.js "^5.2.2"
