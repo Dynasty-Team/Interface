@@ -15,8 +15,8 @@ type ChainTokenList = {
   'TokenSwap'
 ) */
 export const WBNB = new Token(ChainId.MAINNET, '0x5b8361a91d33Ad1a9541832B2B60b1CEd2D04148', 18, 'WDNY', 'Wrapped DNY')
-export const USDT = new Token(ChainId.MAINNET, '0xD772518B2Fad0169879f1aA04D229A11adAc59f3', 18, 'USDT', 'Tether USD')
 /* export const DAI = new Token(ChainId.MAINNET, '0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3', 18, 'DAI', 'Dai Stablecoin')
+export const USDT = new Token(ChainId.MAINNET, '0xD772518B2Fad0169879f1aA04D229A11adAc59f3', 18, 'USDT', 'Tether USD')
 export const BUSD = new Token(ChainId.MAINNET, '0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56', 18, 'BUSD', 'Binance USD')
 export const BTCB = new Token(ChainId.MAINNET, '0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c', 18, 'BTCB', 'Binance BTC')
 export const UST = new Token(
